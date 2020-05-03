@@ -9,8 +9,8 @@ int addition(int ,int);
 int main(){
 
 	addition(first,second);
-	return 0
-;
+	return 0;
+
 }
 
 int addition(int first,int second){
